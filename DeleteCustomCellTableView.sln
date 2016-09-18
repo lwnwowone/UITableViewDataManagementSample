@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeleteCustomCellTableView", "DeleteCustomCellTableView\DeleteCustomCellTableView.csproj", "{BE6D66A4-7B6C-4A8F-B32D-47DC0AF5F05D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE6D66A4-7B6C-4A8F-B32D-47DC0AF5F05D}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{BE6D66A4-7B6C-4A8F-B32D-47DC0AF5F05D}.Debug|iPhone.Build.0 = Debug|iPhone
+		{BE6D66A4-7B6C-4A8F-B32D-47DC0AF5F05D}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{BE6D66A4-7B6C-4A8F-B32D-47DC0AF5F05D}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{BE6D66A4-7B6C-4A8F-B32D-47DC0AF5F05D}.Release|iPhone.ActiveCfg = Release|iPhone
+		{BE6D66A4-7B6C-4A8F-B32D-47DC0AF5F05D}.Release|iPhone.Build.0 = Release|iPhone
+		{BE6D66A4-7B6C-4A8F-B32D-47DC0AF5F05D}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{BE6D66A4-7B6C-4A8F-B32D-47DC0AF5F05D}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+EndGlobal
